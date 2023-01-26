@@ -1,0 +1,23 @@
+﻿  towerdefence.c
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(98,43): warning C4133: 'función': tipos incompatibles, de 'SDL_Surface *' a 'SDL_Texture *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(124,38): warning C4133: 'función': tipos incompatibles, de 'SDL_Surface *' a 'SDL_Texture *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(130,29): warning C4133: 'función': tipos incompatibles, de 'SDL_Surface *' a 'SDL_Texture *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(131,28): warning C4133: 'función': tipos incompatibles, de 'SDL_Surface *' a 'SDL_Texture *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(173,21): warning C4133: 'return': tipos incompatibles, de 'SDL_Texture *' a 'SDL_Surface *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(217,21): warning C4133: 'return': tipos incompatibles, de 'SDL_Texture *' a 'SDL_Surface *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(384,88): warning C4020: 'SDL_CreateTextureFromSurface': hay demasiados parámetros reales
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(372,18): warning C4101: 'texturemetralleta': variable local sin referencia
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(370,18): warning C4101: 'kainoiatexture': variable local sin referencia
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(427,1): warning C4029: la lista de parámetros formales declarada es distinta de la definición
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(800,32): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(822,36): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(883,13): warning C4047: 'función': 'Uint32' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(883,9): warning C4024: 'SDL_CreateWindow': tipos distintos para el parámetro formal y el parámetro real 6
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(888,65): warning C4047: 'función': 'Uint32' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(888,61): warning C4024: 'SDL_CreateRenderer': tipos distintos para el parámetro formal y el parámetro real 3
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(916,72): warning C4020: 'TTF_OpenFont': hay demasiados parámetros reales
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(950,83): warning C4020: 'SDL_CreateTextureFromSurface': hay demasiados parámetros reales
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(425): warning C4716: 'AMUZON': debe devolver un valor
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(522): warning C4715: 'processEventsAmuzon': no todas las rutas de acceso de control devuelven un valor
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(614): warning C4715: 'processEventsTD': no todas las rutas de acceso de control devuelven un valor
+  main_menu.vcxproj -> C:\PBL\game_menu_eki\x64\Debug\main_menu.exe

@@ -1,0 +1,47 @@
+﻿  audio.c
+  ebentoak.c
+  ebentuak.c
+  eszena.c
+C:\PBL\game_menu_eki\main_menu\eszena.c(115,119): warning C4133: 'función': tipos incompatibles, de 'SDL_Renderer *' a 'SDL_Window *'
+C:\PBL\game_menu_eki\main_menu\eszena.c(115,126): warning C4133: 'función': tipos incompatibles, de 'SDL_Window *' a 'SDL_Renderer *'
+  game02.c
+C:\PBL\game_menu_eki\main_menu\game02\game02.c(25,58): warning C4030: la primera lista de parámetros formales es más larga que la segunda
+C:\PBL\game_menu_eki\main_menu\game02\game02.c(25,58): warning C4028: parámetro formal 2 distinto de la declaración
+C:\PBL\game_menu_eki\main_menu\game02\game02.c(244,454): warning C4020: 'eszenaaldatu': hay demasiados parámetros reales
+C:\PBL\game_menu_eki\main_menu\game02\game02.c(89,39): warning C4101: 'fondo': variable local sin referencia
+C:\PBL\game_menu_eki\main_menu\game02\game02.c(89,18): warning C4101: 'zirkulua': variable local sin referencia
+  graphics.c
+C:\PBL\game_menu_eki\main_menu\graphics.c(69,9): warning C4013: 'kontrolenIrudiakMarraztu' sin definir; se supone que extern devuelve como resultado int
+  interaktuatu.c
+C:\PBL\game_menu_eki\main_menu\interaktuatu.c(248,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\PBL\game_menu_eki\main_menu\interaktuatu.c(249,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\PBL\game_menu_eki\main_menu\interaktuatu.c(250,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\PBL\game_menu_eki\main_menu\interaktuatu.c(413,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\PBL\game_menu_eki\main_menu\interaktuatu.c(414,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\PBL\game_menu_eki\main_menu\interaktuatu.c(415,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\PBL\game_menu_eki\main_menu\interaktuatu.c(416,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  irudiak.c
+  kolisioak.c
+  marrazkiak.c
+  menu.c
+  textua.c
+  towerdefence.c
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(98,43): warning C4133: 'función': tipos incompatibles, de 'SDL_Surface *' a 'SDL_Texture *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(124,38): warning C4133: 'función': tipos incompatibles, de 'SDL_Surface *' a 'SDL_Texture *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(130,29): warning C4133: 'función': tipos incompatibles, de 'SDL_Surface *' a 'SDL_Texture *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(131,28): warning C4133: 'función': tipos incompatibles, de 'SDL_Surface *' a 'SDL_Texture *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(173,21): warning C4133: 'return': tipos incompatibles, de 'SDL_Texture *' a 'SDL_Surface *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(217,21): warning C4133: 'return': tipos incompatibles, de 'SDL_Texture *' a 'SDL_Surface *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(384,88): warning C4020: 'SDL_CreateTextureFromSurface': hay demasiados parámetros reales
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(372,18): warning C4101: 'texturemetralleta': variable local sin referencia
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(370,18): warning C4101: 'kainoiatexture': variable local sin referencia
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(427,1): warning C4029: la lista de parámetros formales declarada es distinta de la definición
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(800,32): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(822,36): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(857,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(883,13): warning C4047: 'función': 'Uint32' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(883,9): warning C4024: 'SDL_CreateWindow': tipos distintos para el parámetro formal y el parámetro real 6
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(888,65): warning C4047: 'función': 'Uint32' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(888,61): warning C4024: 'SDL_CreateRenderer': tipos distintos para el parámetro formal y el parámetro real 3
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(916,72): warning C4020: 'TTF_OpenFont': hay demasiados parámetros reales
+C:\PBL\game_menu_eki\main_menu\towerdefence.c(950,83): warning C4020: 'SDL_CreateTextureFromSurface': hay demasiados parámetros reales
